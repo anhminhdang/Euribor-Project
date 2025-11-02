@@ -1,1 +1,1 @@
-# Euribor-Project
+# EURIBOR-Project
